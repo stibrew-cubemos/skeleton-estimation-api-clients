@@ -71,7 +71,7 @@ try:
 
         # provide the input payload
         payload = {'image': {'bytes_b64': byte_stream}}
-        headers = { 'x-api-key': "cubemos-skeleton-estimation" }
+        headers = { 'x-api-key': "YOUR-API-KEY" }
         
         # make the POST call and get the response
         conn.request("POST", "/skeletons/estimate", json.dumps(payload), headers)
