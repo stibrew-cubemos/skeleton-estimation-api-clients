@@ -31,7 +31,8 @@ Currently only the following actions are analysed:
 The speed of the application depends on your internet connection. The processing time of the image at the backend is around 90ms and the remaining round trip from our servers in europe is directly dependent on your bandwidth.
 
 ## API key and integrating in your application
-The API key used is "cubemos-skeleton-estimation". It is a free-tier key with limited calls per day. In order to integrate it seamlessly in your application, contact meet@cubemos.com
+The Trial API key can be availed here: https://console.cubemos.com/authPage. 
+In order to integrate it seamlessly in your application, contact meet@cubemos.com
 
    
 ## Contribution
